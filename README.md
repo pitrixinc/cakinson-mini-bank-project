@@ -21,19 +21,39 @@
 ### Demonstrate your coding abilities with hands-on practice and secure your desired programming profession.
 
 ✅ Project made by - Kennedy Addo Quaye
+
+
 ✅ It is not a fully functional code for a Banking System, however, it includes most of the advance features
+
+
 ✅ Admin can manually create and add users
+
+
 ✅ Admin can delete users
+
+
 ✅ Admin can make dummy transactions on a user's account such us:
+
+
 ✅ Admin can make deposits
+
+
 ✅ Admin can make withdrawals
+
+
 ✅ Admin can make payments
 etc
+
+
 ✅ users can also sign up and log in
+
+
 ✅ users can logon their account dashboard where they can view their account details and transactions made
 
 
 ✅ Note that it is not a fully functional react web application but it has some backend features such as CRUD, It can not be used for commercial purposes but for demonstrations and educational purposes.
+
+
 💻 Follow me on Twitter - @KennedyQuaye_
 
 
